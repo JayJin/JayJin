@@ -1,8 +1,15 @@
-# Hi there. Welcome my space 👋
+# Hi, I'm [JayJin] 👋
 
-Hi there, I'm Jay, a Machine Learning developer😊
+**Data Scientist & Data Engineer**
 
-- 🌱 I’m currently learning AI, Data Science.
-- 👯 I’m looking to collaborate on big data, machine learning projects.
-- 📫 How to reach me: jvidorca@gmail.com or tistory(JITHub - https://ggommappooh.tistory.com/)
-- Thanks for coming to my JITHub
+I completed my Master’s in Data Science with research focused on **Speech Emotion Recognition (SER), Speech Generation, and TTS**. Since 2024, I have been professionally specializing in **Data Engineering, Data Governance, and Ontology**.
+
+### Areas of Interest
+- **Data & Infrastructure:** Advanced Data Engineering and Governance.
+- **AI Systems:** Multi-Agent AI Architecture.
+- **Backend Development:** Building scalable APIs with Django and FastAPI.
+
+---
+
+I am always open to professional networking and discussions regarding technology.
+**Email:** jvidorca@gmail.com
