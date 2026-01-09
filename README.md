@@ -1,4 +1,4 @@
-# Hi, I'm [JayJin] 👋
+# JayJin
 
 **Data Scientist & Data Engineer**
 
